@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-void average();
-
 int main(){
     int i, x, highest = 0, position;
 
